@@ -1,1 +1,1 @@
-A very minimal Dotfiles :)
+A very basic Dot files

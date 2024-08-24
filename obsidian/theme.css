@@ -1,0 +1,62 @@
+/* General header styles */
+.cm-s-obsidian .cm-header,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 600;
+  overflow: visible;
+  color: var(--color-3); /* Default color, if not overridden */
+}
+
+/* Specific colors for each header level */
+h1 {
+  color: #ff0000; /* Red */
+}
+
+h2 {
+  color: #00ff00; /* Green */
+}
+
+h3 {
+  color: #0000ff; /* Blue */
+}
+
+h4 {
+  color: #ffa500; /* Orange */
+}
+
+h5 {
+  color: #800080; /* Purple */
+}
+
+h6 {
+  color: #808080; /* Gray */
+}
+
+/* For code editor headers if needed */
+.cm-s-obsidian .cm-header.cm-header-1 {
+  color: #ff0000; /* Red for header 1 */
+}
+
+.cm-s-obsidian .cm-header.cm-header-2 {
+  color: #00ff00; /* Green for header 2 */
+}
+
+.cm-s-obsidian .cm-header.cm-header-3 {
+  color: #0000ff; /* Blue for header 3 */
+}
+
+.cm-s-obsidian .cm-header.cm-header-4 {
+  color: #ffa500; /* Orange for header 4 */
+}
+
+.cm-s-obsidian .cm-header.cm-header-5 {
+  color: #800080; /* Purple for header 5 */
+}
+
+.cm-s-obsidian .cm-header.cm-header-6 {
+  color: #808080; /* Gray for header 6 */
+}

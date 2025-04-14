@@ -1,4 +1,4 @@
-// for use in scriptable
+// for use in **scriptable**
 // based on: https://github.com/ferraridavide/scriptable/blob/main/days-left.js
 
 // ===================================================

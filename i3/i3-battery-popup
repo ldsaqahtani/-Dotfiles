@@ -4,7 +4,7 @@
 # A script that shows a battery warning on i3wm                                #
 #                                                                              #
 # It supports multiple batteries                                               #
-# (like my thinkpad T450s has)                                                 #
+# (like my thinkpad X1C6 has)                                                  #
 #                                                                              #
 # When tcl/tk (wish) is installed, it shows a nice popup                       #
 # Which you can configure to show on all workspaces                            #
@@ -43,11 +43,6 @@
 # -D : Enable debug output                                                     #
 #                                                                              #
 # -F : Specifies the logfile to write output to                                #
-#                                                                              #
-# By R-J Ekker, 2016                                                           #
-# Thanks to:                                                                   #
-# - Louis-Jacob Lebel (https://github.com/lebel-louisjacob)                    #
-# - Martin Jablečník (https://github.com/Applemann)                            #
 ################################################################################
 
 error () {
